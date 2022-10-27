@@ -1,0 +1,51 @@
+[
+    {
+      "category_id": "01",
+        "_id": "63593addc57f3c71a90f9390",
+      "picture": "https://i.pinimg.com/736x/c8/eb/64/c8eb642e2754b14dfac2a5276ba4495f.jpg",
+      "price": "$399",
+      "name": "Python",
+      "about": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming\r\n"
+    },
+    {
+      "category_id": "02",
+        "_id": "63593add74e480353757e538",
+      "picture": "https://img.besthqwallpapers.com/Uploads/3-3-2020/123592/javascript-fiery-logo-programming-language-orange-stone-background-creative-javascript-logo.jpg",
+      "price": "$399",
+      "name": "JavaScript",
+
+      "about": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.\r\n"
+    },
+    {
+      "category_id": "03",
+        "_id": "63593addcb984e9b9de85e57",
+      "picture": "https://www.doz.com/wp-content/uploads/2022/02/top-18-most-common-angularjs-developer-mistakes-41f9ad303a51db70e4a5204e101e7414.png",
+      "price": "$399",
+      "name": "Angular",
+      "about": "Angular is a TypeScript-based free and open-source web application framework lead by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.\r\n"
+    },
+    {
+      "category_id": "04",
+        "_id": "63593addf3b302e16c043ce1",
+      "picture": "https://techfi.tech/content/images/2022/04/State-Management-Comparison-React-Context---Redux.jpg",
+      "price": "$399",
+      "name": "Redux and React",
+      "about": "Redux is an open-source JavaScript library for managing and centralizing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Similar to Facebook's Flux architecture, it was created by Dan Abramov and Andrew Clark.\r\n"
+    },
+    {
+      "category_id": "05",
+        "_id": "63593adddac62b8477266a7f",
+      "picture": "https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png",
+      "price": "$399",
+      "name": "Node.js",
+      "about": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications.\r\n"
+    },
+    {
+      "category_id": "06",
+        "_id": "63593addf690161289f32674",
+      "picture": "https://img.freepik.com/premium-vector/cyber-security-vector-logo-with-shield-check-mark-security-shield-concept-internet-security-vector-illustration_100456-2491.jpg?w=2000",
+      "price": "$399",
+      "name": "Cyber Security",
+      "about": "Computer security, cybersecurity, or information technology security is the protection of computer systems and networks from information disclosure, theft of, or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.\r\n"
+    }
+  ]

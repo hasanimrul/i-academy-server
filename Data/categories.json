@@ -1,0 +1,26 @@
+[
+    {
+      "id": "01",
+      "name": "Python"
+    },
+    {
+      "id": "02",
+      "name": "JavaScript"
+    },
+    {
+      "id": "03",
+      "name": "Angular 6"
+    },
+    {
+      "id": "04",
+      "name": "Redux and React"
+    },
+    {
+      "id": "05",
+      "name": "Node.js"
+    },
+    {
+      "id": "06",
+      "name": "Cyber Security"
+    }
+  ]
